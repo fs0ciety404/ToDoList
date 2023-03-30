@@ -14,7 +14,7 @@ ToDoList is an app for managing daily tasks, completely built in Swift using onl
 1. Clone the repo to your computer or download the source code as a ZIP file
 2. Open the Xcode Project
 3. Select the target device or simulator
-4. Fare clic sul pulsante "Run" per avviare l'app 
+4. Click the "Run" button to launch the app
 
 ## System requirements
 
