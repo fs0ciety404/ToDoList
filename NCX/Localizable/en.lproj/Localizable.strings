@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  NCX
+
+  Created by Davide Ragosta on 27/03/23.
+  
+*/
+
+"Strings_labelTitle" = "To Do List";
+"Strings_buttonTitle" = "Go to SwiftUI";
+"Strings_swiftuiView" = "Welcome to SwiftUI";
+"Strings_alertTitle" = "New Task";
+"Strings_alertMessage" = "Add a new task to your list";
